@@ -66,12 +66,8 @@ Solo project (**Next.js, React, TypeScript, CSS Modules, REST API**). A notes ma
 
 [Live](https://06-notehub-nextjs-eight-rouge.vercel.app/) · [Repository](https://github.com/AdamPershyi/06-notehub-nextjs)
 
-## GitHub stats
+## Top languages
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=AdamPershyi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=AdamPershyi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdamPershyi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
 </p>
